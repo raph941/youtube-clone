@@ -1,0 +1,8 @@
+{
+    "hosting": {
+      "site": "y-clone",
+      "public": "build"
+    }
+  }
+
+// firebase deploy --only hosting:y-clone
